@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aulas/Descargas/IA/practica1-main/Comportamientos_Jugador/jugador.cpp
+../Comportamientos_Jugador/jugador.hpp
+/home/aulas/Descargas/IA/practica1-main/Comportamientos_Jugador/jugador.hpp
+iostream
+-
+queue
+-
+
+/home/aulas/Descargas/IA/practica1-main/Comportamientos_Jugador/jugador.hpp
+queue
+-
+comportamientos/comportamiento.hpp
+/home/aulas/Descargas/IA/practica1-main/Comportamientos_Jugador/comportamientos/comportamiento.hpp
+
+include/comportamientos/comportamiento.hpp
+vector
+-
+
